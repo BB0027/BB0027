@@ -4,4 +4,4 @@ Incoming Ph.D. student at **Shanghai Jiao Tong University × Shanghai Qi Zhi Ins
 
 **Loco-manipulation · System-0 control in the real world · generalizable robot foundation models**
 
-🌐 [Homepage](https://bb0027.github.io) · 📄 [DAVIS](https://thusi-lab.github.io/DAVIS/) · [arXiv](https://arxiv.org/abs/2609.28175) · [Zhihu](https://www.zhihu.com/people/bb-26-84-68) · ✉️ [Email](mailto:BettyOlshanyQ@gmail.com)
+[Email](mailto:BettyOlshanyQ@gmail.com) · [GitHub](https://github.com/BB0027) · [Google Scholar](https://scholar.google.com/) · [Zhihu](https://www.zhihu.com/people/bb-26-84-68) · [Xiaohongshu](https://www.xiaohongshu.com/user/profile/65633f4f0000000008003e5e)
